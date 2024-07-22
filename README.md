@@ -20,7 +20,7 @@ Perfect for art, design, and coding enthusiasts alike
 
 
 # Run
-To run this code, save it to a file with a .py extension (e.g., spiral.py) and execute it using Python (e.g., python Trangular_spiral.py). This will launch a window displaying the Rainbow Vortex pattern.
+To run this code, save it to a file with a .py extension (e.g., Trangular_spiral.py) and execute it using Python (e.g., python Trangular_spiral.py). This will launch a window displaying the Rainbow Vortex pattern.
 
 # License
 This code is licensed under the MIT License. Feel free to modify, distribute, and use it for any purpose.

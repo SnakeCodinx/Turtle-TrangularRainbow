@@ -3,7 +3,7 @@
 This code uses the Python Turtle library to create a stunning, swirling pattern that appears to pull the viewer in, like a vortex. The pattern is formed by drawing a series of connected lines with increasing lengths, with each line being drawn in a different color from a predefined palette. The turtle module is used to control the turtle's movements and appearance.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/NSm7WdgkClE))
 
 # Screenshot
 
